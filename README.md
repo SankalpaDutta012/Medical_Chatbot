@@ -171,4 +171,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-For more information or support, please contact [your-email@example.com]
+For more information or support, please contact [sankalpadutta04@gmail.com]
